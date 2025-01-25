@@ -2,7 +2,7 @@
 
 - Prof. Dr. Nelio Alves
 
-## Tópicos Aprendidos
+## Tópicos aprendidos
 
 ### Aula 1
 
